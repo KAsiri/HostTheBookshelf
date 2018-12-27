@@ -3,6 +3,10 @@
 
 The web app available on: http://www.52.2.6.25.xip.io
 
+The Public IP: 52.2.6.25
+
+The SSH port : 2200
+
 ## Setup Amazon Lightsail server:-
 
 ### Create ubuntu server:-
