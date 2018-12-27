@@ -152,3 +152,14 @@ WTF_CSRF_ENABLED = True
 - Launch your seeder file by (`sudo python seeder.py`).
 
 - Restart the apache2 (`sudo apache2ctl restart`).
+
+## Resources:-
+[- Udacity FSND ](https://mena.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
+[- Ask ubuntu ](https://askubuntu.com/)
+[- ubuntu forums ](https://ubuntuforums.org/index.php)
+[- mod_wsgi ](https://modwsgi.readthedocs.io/en/develop/)
+[- mod_wsgi (Apache)](http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/)
+[- Amazon EC2 Linux Instances ](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)
+[- Amazon Lightsail ](https://lightsail.aws.amazon.com/ls/webapp/home/instances)
+[- xip ](http://xip.io/)
+[- The Bookshelf ](https://github.com/KAsiri/TheBookshelf)
