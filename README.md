@@ -1,9 +1,9 @@
 # Web app Hosted by Linux server
 #### This is a guide for hosting a web app on a ubuntu server as a part of udacity Full-stack nanodegree.
 
-The web app available on: http://www.52.2.6.25.xip.io
+The web app available on: X.X.X.X (not hosted now)
 
-The Public IP: 52.2.6.25
+The Public IP: X.X.X.X (not hosted now)
 
 The SSH port : 2200
 
